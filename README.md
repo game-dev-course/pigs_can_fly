@@ -10,10 +10,10 @@ to restart the, restart the page
 the git with all the files is at
 
 
-https://github.com/game-dev-course/pigs_can_fly
+[GitHub](https://github.com/game-dev-course/pigs_can_fly)
 
 
-https://gamedevcourse.itch.io/pigs-can-fly
+[itch](https://gamedevcourse.itch.io/pigs-can-fly)
 
 
 unity 2021.3.21f1 LTS
